@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46288512.css",
+    "main.js": "/static/js/main.8ba9a6e4.js",
+    "static/media/cinema-ticket.png": "/static/media/cinema-ticket.2f2b9fb0596484b26a89.png",
+    "static/media/scheme.svg": "/static/media/scheme.c9986386c2da4a6bc847cdc73d40f41f.svg",
+    "static/media/time.svg": "/static/media/time.f802d72c95dda8f1b9e5b0904d8d7c70.svg",
+    "static/media/theme.svg": "/static/media/theme.8ac1cd4efe5c3e2c55ba158accff0b54.svg",
+    "index.html": "/index.html",
+    "static/media/legendbooked.svg": "/static/media/legendbooked.9385108bc2292c8b3125b0a18311686a.svg",
+    "static/media/legendlabel.svg": "/static/media/legendlabel.d2fddc4a6afe34135762d6a9c1a476fa.svg",
+    "static/media/legendtext.svg": "/static/media/legendtext.942793a3197db2b729aa29c28b111526.svg",
+    "main.46288512.css.map": "/static/css/main.46288512.css.map",
+    "main.8ba9a6e4.js.map": "/static/js/main.8ba9a6e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46288512.css",
+    "static/js/main.8ba9a6e4.js"
+  ]
+}
